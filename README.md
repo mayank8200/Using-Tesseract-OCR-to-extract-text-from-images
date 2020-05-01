@@ -20,4 +20,4 @@ Note: pytesseract  does not provide true Python bindings. Rather, it simply prov
 python ocr.py --image a.jpg
 Here a.jpg is the image name.
 
-![Header image](capture.jpg)
+![Header image](capture.JPG)
