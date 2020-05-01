@@ -21,4 +21,4 @@ python ocr.py --image a.jpg
 Here a.jpg is the image name.
 
 # Screenshot of Implementation
-![Header image](./capture.JPG)
+![Header image](./Capture.JPG)
